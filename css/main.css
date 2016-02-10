@@ -109,12 +109,12 @@ body {
   opacity: 0.6;
   padding: 15px;
   padding-top: 50px;
-  border-radius: 5px;
   color: #FFFFFF;
   position: absolute;
   font-size: 20px;
   font-weight: 100;
   text-align: left;
+  text-align: center;
 }
 
 .mp-text-right {
@@ -129,4 +129,19 @@ body {
 }
 .mp-footer {
   height:100px;
+}
+
+.mp-text-top {
+  width: auto;
+  height: 25vh;
+}
+
+.mp-text-middle {
+  width: auto;
+  height: 25vh;
+}
+
+.mp-text-bottom {
+  width: auto;
+  height: 25vh;
 }
